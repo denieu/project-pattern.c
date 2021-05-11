@@ -22,6 +22,7 @@ FLAGS= -g -Wall
 #RC compiler flags
 RC_FLAGS=-O coff -o
 #Project libs
+#Examples: -lconio -lpthread
 LIB_FLAGS=
 #Libs to link with the compiler
 LIBS= -lm -L$(LIB) $(LIB_FLAGS)
