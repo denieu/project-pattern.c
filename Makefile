@@ -1,3 +1,13 @@
+#------------------------------------------------------------------------------#
+# project-pattern.c
+#
+# Author: Daniel Wojcickoski
+# Date: 2021/05/23
+# Url: https://github.com/denieu/project-pattern.c
+#
+# MIT License - Copyright (c) 2021 Daniel Wojcickoski
+#------------------------------------------------------------------------------#
+
 #Compiler
 COMPILER=gcc
 #Resource compiler
